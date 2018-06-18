@@ -1,0 +1,2 @@
+This is a basic pocket shell written in C. When compiled allows the user to run on a Linux based operating system.
+This program will give the full rights of a terminal command while displaying the pid of every new process executed by the shell. 
